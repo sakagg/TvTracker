@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tv Tracker</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="populate_database_online">Reload Channels List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_populate_database_online">PopulateDatabaseOnline</string>
+    <string name="load_data">Reload Data!</string>
+    <string name="add_remove_channels">Add/Remove Channels</string>
+	<string name="action_save_status">SAVE</string>
+	<string name="channel_image">Channel Logo</string>
+</resources>

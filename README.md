@@ -1,5 +1,6 @@
 # TvTracker
-A no-clutter android app to save TV schedule for the day to your phone for offline viewing and now supports 300+ channels!
-In case of hugs or bugs, feel free to contact me :)
+A no-clutter Android app to save TV schedule for the day to your phone - for all your favorite channels. You can also use it for offline viewing. The app now supports 300+ channels! (For real!)
 
-Find the APK in /bin
+In case of hugs, and bugs - feel free to contact me :)
+
+Find the APK (Android Application Installer) in `bin` folder.
